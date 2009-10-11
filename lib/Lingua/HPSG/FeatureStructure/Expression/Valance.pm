@@ -1,36 +1,22 @@
-package Lingua::HPSG;
+package Lingua::HPSG::FeatureStructure::Expression::Valance;
 
 use warnings;
 use strict;
 
 =head1 NAME
 
-Lingua::HPSG - Head-driven Phrase Structure Grammar
+Lingua::HPSG::FeatureStructure::Expression::Valance - from feat-struct diagram on p.84
 
 =head1 VERSION
 
-Version 0.03
+Version 0.01
 
 =cut
 
-our $VERSION = '0.03';
+our $VERSION = '0.01';
 
 
 =head1 SYNOPSIS
-
-Summary of what the module does: nothing.
-
-=head1 FUNCTIONS
-
-=head2 new
-
-Nada
-
-=cut
-
-sub new {
-
-}
 
 =head1 AUTHOR
 
@@ -38,7 +24,7 @@ C.J. Adams-Collier, C<< <cjac at u.washington.edu> >>
 
 =head1 BUGS
 
-Please report any bugs or feature requests to C<bug-lingua-hpsg at rt.cpan.org>, or through
+Please report any bugs or feature requests to C<bug-lingua-hpsg-featurestructure-expression-valance at rt.cpan.org>, or through
 the web interface at L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Lingua-HPSG>.  I will be notified, and then you'll
 automatically be notified of progress on your bug as I make changes.
 
@@ -88,4 +74,4 @@ under the same terms as Perl itself.
 
 =cut
 
-1; # End of Lingua::HPSG
+1; # End of Lingua::HPSG::FeatureStructure::Expression::Valance

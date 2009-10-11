@@ -1,11 +1,11 @@
-package Lingua::HPSG::FeatureStructure::PartOfSpeech::Agreement;
+package Lingua::HPSG::Feature::Valance;
 
 use warnings;
 use strict;
 
 =head1 NAME
 
-Lingua::HPSG::FeatureStructure::PartOfSpeech::Agreement - feat-struc type from p.61
+Lingua::HPSG::Feature::Valance - from feat-struct diagram on p.84
 
 =head1 VERSION
 
@@ -20,11 +20,11 @@ our $VERSION = '0.01';
 
 =head1 AUTHOR
 
-C.J. Adams-Collier, C<< <cjac at colliertech.org> >>
+C.J. Adams-Collier, C<< <cjac at u.washington.edu> >>
 
 =head1 BUGS
 
-Please report any bugs or feature requests to C<bug-lingua-hpsg-featurestructure-partofspeech-agreement at rt.cpan.org>, or through
+Please report any bugs or feature requests to C<bug-lingua-hpsg-feature-valance at rt.cpan.org>, or through
 the web interface at L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Lingua-HPSG>.  I will be notified, and then you'll
 automatically be notified of progress on your bug as I make changes.
 
@@ -74,4 +74,4 @@ under the same terms as Perl itself.
 
 =cut
 
-1; # End of Lingua::HPSG::FeatureStructure::PartOfSpeech::Agreement
+1; # End of Lingua::HPSG::Feature::Valance

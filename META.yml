@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Lingua-HPSG
-version:            0.02
+version:            0.03
 abstract:           Head-driven Phrase Structure Grammar
 author:
     - C.J. Adams-Collier <cjac@u.washington.edu>
